@@ -1,1 +1,1 @@
-First git exercises!!
+rewrote readme
