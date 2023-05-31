@@ -1,0 +1,59 @@
+    1  ls
+    2  ls -a
+    3  git init ls -a
+    4  git init 
+    5  ls -a
+    6  git status
+    7  touch README.md
+    8  ls -a
+    9  git status
+   10  git log
+   11  git add
+   12  git add .
+   13  git status
+   14  git commit -m "initial commit"
+   15  git cofig --global user.name 'Lesedi Mokoena'
+   16  git config --global user.name 'Lesedi Mokoena'
+   17  git config --global user.email 'lommokoena@gmail.com'
+   18  git commit -m "initial commit"
+   19  git log
+   20  nano README.md
+   21  cat README.md
+   22  git status
+   23  git add .
+   24  git commit -m
+   25  git add README.md
+   26  git status
+   27  nano README.md
+   28  cat README.md
+   29  git status
+   30  git add README.md
+   31  git commit -m "second comnit"
+   32  git status
+   33  git log
+   34  nano README.md
+   35  git commint -m "third commit"
+   36  git commit -m "third commit"
+   37  git add README.md
+   38  git commit -m "third commit"
+   39  git log
+   40  git checkout a0a73d498d690235a4c7366ce0e5519b31fae99b
+   41  cat README.md
+   42  git checkout master
+   43  cat README.md
+   44  git branch
+   45  git branch milkshake-flavours
+   46  git branch
+   47  git checkout milkshake-flavours
+   48  git branch
+   49  nano milkshakes.md
+   50  git status
+   51  git commit -m "added initial flavours"
+   52  git add milkshakes.md
+   53  git commit -m "added initial flavours"
+   54  git log
+   55  git checkout master
+   56  git branch history
+   57  git log
+   58  git branch
+   59  history > history.txt
